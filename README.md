@@ -8,7 +8,7 @@ exception type?
 5. Can you have nested try-except blocks in Python? If yes, then give an example.
 6. Can we use multiple exception blocks, if yes then give an example.
 7. Write the reason due to which following errors are raised:
-<n>a. EOFError
+<n> a. EOFError <n>
 b. FloatingPointError
 c. IndexError
 d. MemoryError
